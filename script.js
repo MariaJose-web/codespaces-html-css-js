@@ -1,4 +1,4 @@
-git const themeToggle = document.getElementById('theme-toggle');
+const themeToggle = document.getElementById('theme-toggle');
 const messageButton = document.getElementById('message-button');
 const messageOutput = document.getElementById('message-output');
 
